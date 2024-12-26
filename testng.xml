@@ -4,9 +4,9 @@
         <parameter name="deviceID" value="1"/>
         <classes>
             <class name="com.qa.tests.LoginTests">
-                <methods>
-                    <include name="invalidUserName" />
-                </methods>
+<!--                <methods>-->
+<!--                    <include name="invalidUserName" />-->
+<!--                </methods>-->
             </class>
             <!--<class name="com.qa.tests.ProductTests"/>-->
         </classes>
